@@ -81,8 +81,8 @@ SUPABASE_SERVICE_ROLE_KEY=your-key
 JWT_SECRET=a-long-random-secret
 
 # Embedding
-EMBEDDING_PROVIDER=openai          # or 'ollama'
-OPENAI_API_KEY=sk-...              # if using openai
+EMBEDDING_PROVIDER=gemini           
+GEMINI_API_KEY=sk-...              
 
 # LLM
 LLM_PROVIDER=openrouter            # or 'ollama'
