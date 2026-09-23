@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+dist/
+
+# Environment variables — NEVER commit real credentials
+.env
+backend/.env
+frontend/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.tsbuildinfo
