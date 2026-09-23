@@ -132,13 +132,7 @@ npm test
 | GET | `/health` | ✗ | Server health check |
 
 ---
-
-## Demo Flow (≤ 3 min)
-
-1. Register **User A** and **User B**
-2. User A writes 2–3 journal entries
-3. User A asks a question → AI answers from their entries + terminal shows RAG stages
-4. User B logs in → journal is empty → chat returns "no relevant context"
+ 
 
 ---
 
